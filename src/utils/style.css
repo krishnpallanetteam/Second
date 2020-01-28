@@ -1,0 +1,21 @@
+input[type='text'] 
+{
+    text-transform: uppercase !important;
+}
+.MuiFormLabel-root {
+    font-size: 12.5px !important;
+}
+
+.Mui-focused
+{
+    font-size:15px !important;
+}
+.MuiFormLabel-filled
+{
+    font-size: 15px !important;
+}
+ 
+.MuiFormLabel-root.Mui-focused {
+    width: 100% !important;
+  
+}
